@@ -1,1 +1,1 @@
-{"rewrites":[{"source":"/(.*)","destination":"/api/index"}],"functions":{"api/index.js":{"maxDuration":300}}}
+{"functions":{"api/[[...path]].js":{"maxDuration":300}}}
